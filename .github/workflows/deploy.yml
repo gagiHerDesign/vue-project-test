@@ -27,9 +27,3 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
- 
-        Copied!
-    
-作業
-
-熟悉 Vite 環境及預處理器，製作網頁丙級第一
